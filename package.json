@@ -1,7 +1,7 @@
 {
   "name": "facebook-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple Facebook like Atom UI theme.",
   "keywords": [
     "ui",
